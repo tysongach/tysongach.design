@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://www.tysongachdesign.netlify.app/*"
+  to = "https://www.tysongach.design/:splat"
+  status = 301
+  force = true
